@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m0s69uof5l0sat73?svg=true)](https://ci.appveyor.com/project/elenakoch122/ra47-5-1-composition-cards)
+
 GitHub Pages: https://elenakoch122.github.io/ra47_5.1-composition-cards
 
 Карточки
